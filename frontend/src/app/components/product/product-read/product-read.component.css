@@ -1,0 +1,13 @@
+table {
+    margin-top: 10px;
+    width: 100%;
+}
+
+.edit > i {
+    color: #fb1;
+    margin-right: 10px;
+}
+
+.delete > i {
+    color: firebrick;
+}
